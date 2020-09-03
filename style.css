@@ -1,0 +1,6 @@
+body {
+    background-image: url("topomap.jpg"); 
+    background-repeat: no-repeat;
+    background-image: linear-gradient(teal lightyellow);
+    opacity: .2;
+}
