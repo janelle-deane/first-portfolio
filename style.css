@@ -1,28 +1,48 @@
 * {
-    font-family: 'Grandstander', cursive;
-    font-weight: bolder;
-    
+    font-weight: bolder;  
 }
+
 body {
+    font-family: 'Grandstander', cursive;
     background: linear-gradient(to top, transparent, lightyellow), url("topomap.jpg"); 
     background-attachment: fixed;  
 }
 
-/* .menu-right {
-    float: right; */
+.container{
+    background: whitesmoke; 
 }
+
+header {
+    color: teal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: bolder;
+    width: 100%;
+}
+/* I cant get the picture to float to the left */
+.about-pic{
+    float: left;
+    width: 25%;
+    left: 25px;
+    top: 25px;
+    margin: 10px;
+}
+
+.about-text{
+    float: none;
+}
+
+
 
 footer {
     background:rgb(99, 97, 97);
     border: teal; 
+    color: lightslategray;
     border-top-style: solid; 
     border-width: 5px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
+    /* position: absolute; */
+    /* left: 0;
+    bottom: 0; */
     height: 60px;
     width: 100%;
     text-align: center;
-    padding: 15px;
-    /* need to add copyright */
-}
+    padding: 15px;}
