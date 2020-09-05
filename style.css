@@ -28,11 +28,13 @@ header {
     margin: 10px;
 }
 
-.about-text{
-    float: none;
+.float-right{
+    float: right;
 }
 
-
+.img-fluid{
+    padding: 10px;
+}
 
 footer {
     background:rgb(99, 97, 97);
