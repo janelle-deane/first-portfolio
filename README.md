@@ -2,13 +2,12 @@ Description of Project
 
 overall layout:
 -I left container centered since it looked better
--wrap text around image in about me
 -Weird ... icon? on contact me page
 
 Index:
 -In the navbar, I added the justify-content-end to move the three tabs for contact, portofolio and about. 
 -added a margin so that the background would have space around like in pictures.
--Struggling to figure out how to wrap text around image. 
+-Used "pull-left" to wrap text around picture. 
 
 Contact Page:
 -I used a bootstrap form that I edited to be reflective of the required form.
