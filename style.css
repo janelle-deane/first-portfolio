@@ -11,6 +11,8 @@ body {
 .container{
     background: whitesmoke; 
     padding: 50px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 header {
@@ -22,15 +24,15 @@ header {
 /* I cant get the picture to float to the left */
 .about-pic{
     float: left;
-    width: 25%;
+    width: 30%;
     left: 25px;
     top: 25px;
     margin: 10px;
 }
 
-.float-right{
+/* .float-right{
     float: right;
-}
+} */
 
 .img-fluid{
     padding: 10px;
