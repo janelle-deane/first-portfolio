@@ -2,7 +2,6 @@ Description of Project
 
 overall layout:
 -I left container centered since it looked better
--Weird ... icon? on contact me page
 
 Index:
 -In the navbar, I added the justify-content-end to move the three tabs for contact, portofolio and about. 
