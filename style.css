@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: 'Grandstander', cursive;
+    font-family: 'Nanum Myeongjo', serif;
     background: linear-gradient(to top, transparent, lightyellow), url("topomap.jpg"); 
     background-attachment: fixed;  
 }
@@ -22,6 +22,14 @@ header {
     width: 100%;
 }
 
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color: thistle;
+    height: 1px;
+  }
 .about-pic{
     float: left;
     width: 30%;
